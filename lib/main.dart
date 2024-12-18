@@ -226,3 +226,4 @@ class MainCategoryItem extends StatelessWidget {
     );
   }
 }
+
