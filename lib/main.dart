@@ -212,7 +212,6 @@ class MainCategoryItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(
-
       children: [
         Text(
           text,
